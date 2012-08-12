@@ -1,0 +1,7 @@
+﻿Alias /php "D:\"
+<Directory "D:\">
+Options Indexes Includes FollowSymlinks ExecCGI
+IndexOptions +FancyIndexing
+Order allow,deny
+Allow from all
+</Directory>

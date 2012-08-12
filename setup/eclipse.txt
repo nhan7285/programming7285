@@ -1,0 +1,25 @@
+﻿- SVN: http://download.eclipse.org/releases/juno
+- Zend Debugger: http://downloads.zend.com/pdt
+- Aptana: http://download.aptana.com/studio3/plugin/install
+- StartExplorer: http://basti1302.github.com/startexplorer/update/
+- ZenCoding: http://zen-coding.ru/eclipse/updates/
+- Eclipse SQL Explorer: http://eclipsesql.sourceforge.net/      – QuantumDB: http://quantum.sourceforge.net/update-site – http://blog.debertshaeuser.com/index.php?page=eclipse-sql-editor
+- JointLogic CSS Designer: http://www.jointlogic.com/downloads/updatesite
+( sudo yum install compat-libstdc++-33-3.2.3-68.1.i686)
+- Incubator: http://www.toadext.com/incubator/
+- JSEclipse: http://download.macromedia.com/pub/labs/jseclipse/autoinstall/site.xml
+- JSDT jQuery 1.4.0: https://svn.codespot.com/a/eclipselabs.org/jsdt-jquery/updatesite
+- Word Wrap: http://ahtik.com/eclipse-update/
+- Mylyn 3.6: http://download.eclipse.org/mylyn/releases/3.6
+- Google code & Eclipse: http://subclipse.tigris.org/update_1.8.x ( http://blog.msbbc.co.uk/2007/06/using-googles-free-svn-repository-with.html )
+
+Explore:
+
+https://github.com/basti1302/startexplorer
+http://marketplace.eclipse.org/content/easyshell
+http://blog.samsonis.me/2009/02/open-explorer-plugin-for-eclipse/
+http://junginger.biz/eclipse/
+http://market.eclipsesource.com/yoxos/node/org.sf.easyexplore.feature.group
+http://www.eclipsezone.com/eclipse/forums/t77655.html
+http://marketplace.eclipse.org/content/easyshell
+http://www.jointlogic.com/downloads/updatesite
