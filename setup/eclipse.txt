@@ -1,4 +1,7 @@
 ﻿- SVN: http://download.eclipse.org/releases/juno
+- EGit: http://download.eclipse.org/egit/updates
+- Subversive Connector: http://community.polarion.com/projects/subversive/download/eclipse/3.0/juno-site/
+- 
 - Zend Debugger: http://downloads.zend.com/pdt
 - Aptana: http://download.aptana.com/studio3/plugin/install
 - StartExplorer: http://basti1302.github.com/startexplorer/update/
